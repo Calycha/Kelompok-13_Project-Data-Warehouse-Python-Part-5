@@ -1,4 +1,4 @@
-# Nama Repositori: Kelompok-13_Project-Data-Warehouse-Python-Part-5
+# Nama Repository: Kelompok-13_Project-Data-Warehouse-Python-Part-5
 Untuk Pemenuhan Tugas Individu [Day 15 - GIT]
 
 # Deskripsi untuk Tugas Python Part 5 : OOP

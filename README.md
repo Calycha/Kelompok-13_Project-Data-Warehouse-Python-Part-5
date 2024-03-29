@@ -9,6 +9,6 @@ Tugas ini berjudul Day - 12 Data Warehouse Python Part 5, Tugas ini bersifat kel
 2. Inheritance;
 3. Polymorphism.
    
-# Tugas Kelompok Python Part 5 : OOP ini memiliki 2 Task
+# Tugas Kelompok Python Part 5 : OOP Ini Memiliki 2 Task
 1. Task 1: Basic OOP yakni, Membuat class MarketingDataETL yang memiliki tiga metode, antara lain: extract(), transform(), dan store().
 2. Task 2: Inheritance & Polymorphism yakni, Membuat class TargetedMarketingETL yang mewarisi dari MarketingDataETL. Menambah metode segment_customer() dan Mendemonstrasi polymorphism dengan meng-override metode transform() dalam TargetedMarketingETL.

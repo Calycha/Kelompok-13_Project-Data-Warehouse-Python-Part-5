@@ -1,7 +1,7 @@
 # Nama Repositori: Kelompok-13_Project-Data-Warehouse-Python-Part-5
-Tugas Individu [Day 15 GIT]
+Untuk Pemenuhan Tugas Individu [Day 15 - GIT]
 
-# Deskripsi Tugas
+# Deskripsi Tugas Python Part 5 : OOP
 Pada tugas kelompok Day - 12 Data Warehouse Python Part 5, kami melakukan pembersihan data marketing_data.csv menggunakan prinsip OOP.
 
 # Prinsip OOP Yang Digunakan
